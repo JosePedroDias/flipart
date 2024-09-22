@@ -27,10 +27,16 @@ game can receive the following query params:
 - `debug`: shows each piece pivot index and whether it is correctly aligned
 
 examples:
-- [default 6x8 w/debug ](http://localhost:8080/index.html?debug=1)
-- [8x10                ](http://localhost:8080/index.html?w=8&h=10)
-- [10x12               ](http://localhost:8080/index.html?w=10&h=12)
-- [16x20 w/0.15 density](http://localhost:8080/index.html?w=16&h=20&d=0.15)
+- github
+    - [default 6x8 w/debug ](https://josepedrodias.github.io/flipart/?debug=1)
+    - [8x10                ](https://josepedrodias.github.io/flipart/?w=8&h=10)
+    - [10x12               ](https://josepedrodias.github.io/flipart/?w=10&h=12)
+    - [16x20 w/0.15 density](https://josepedrodias.github.io/flipart/?w=16&h=20&d=0.15)
+- local
+    - [default 6x8 w/debug ](http://localhost:8080/index.html?debug=1)
+    - [8x10                ](http://localhost:8080/index.html?w=8&h=10)
+    - [10x12               ](http://localhost:8080/index.html?w=10&h=12)
+    - [16x20 w/0.15 density](http://localhost:8080/index.html?w=16&h=20&d=0.15)
 
 ## TODO
 
